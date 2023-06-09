@@ -8,9 +8,9 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Linkedin: Vidusha Jayaweera](https://img.shields.io/badge/-Vidusha_Jayaweera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidusha-t-jayaweera/)](https://www.linkedin.com/in/vidusha-t-jayaweera/)
-![GitHub followers](https://img.shields.io/github/followers/Vidusha-Jayaweera?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/vidusha-jayaweera?style=social)
 ![](https://camo.githubusercontent.com/f1c00c1d3c0d9b8f4431c8082be05835cd7795233799bcef63c216d59cf4f6a0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d546875736861726158267374796c653d666c617426636f6c6f723d627269676874677265656e)
-![GitHub User's stars](https://img.shields.io/github/stars/Vidusha-Jayaweera?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/vidusha-jayaweera?style=social)
 
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
