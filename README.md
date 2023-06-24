@@ -60,12 +60,80 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2055%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-419.5%20thousand%20lines%20of%20code-blue)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidusha-jayaweera&show_icons=true&locale=en&layout=compact" alt="vidusha-jayaweera" /></p>
-<br><br><br><br><br><br><br>
-Last Updated on 08/06/2023 18:38:51 UTC
+**🐱 My GitHub Data** 
+
+> 📦 62.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+🌆 Daytime                99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+🌃 Evening                240 commits         ██████████████░░░░░░░░░░░   54.05 % 
+🌙 Night                  83 commits          █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Tuesday                  91 commits          █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Wednesday                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Thursday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Sunday                   213 commits         ████████████░░░░░░░░░░░░░   47.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+Java                     0 secs              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+IntelliJ                 0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+libraryApp               0 secs              ████████████████░░░░░░░░░   64.12 % 
+backend                  0 secs              █████████░░░░░░░░░░░░░░░░   35.88 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+C++                      5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+Kotlin                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+PHP                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/06/2023 18:39:48 UTC
 <!--END_SECTION:waka-->
