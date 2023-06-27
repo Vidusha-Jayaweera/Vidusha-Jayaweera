@@ -10,7 +10,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <!--START_SECTION:waka-->
 [![Linkedin: Vidusha Jayaweera](https://img.shields.io/badge/-Vidusha_Jayaweera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidusha-t-jayaweera/)](https://www.linkedin.com/in/vidusha-t-jayaweera/)
 ![GitHub followers](https://img.shields.io/github/followers/vidusha-jayaweera?style=social)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-green)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-light-green)
 ![GitHub User's stars](https://img.shields.io/github/stars/vidusha-jayaweera?style=social)
 
 ## Skills and Experience
