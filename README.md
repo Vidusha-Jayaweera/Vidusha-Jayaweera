@@ -10,9 +10,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <!--START_SECTION:waka-->
 [![Linkedin: Vidusha Jayaweera](https://img.shields.io/badge/-Vidusha_Jayaweera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vidusha-t-jayaweera/)](https://www.linkedin.com/in/vidusha-t-jayaweera/)
 ![GitHub followers](https://img.shields.io/github/followers/vidusha-jayaweera?style=social)
-![Profile Views]()
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-green)
 ![GitHub User's stars](https://img.shields.io/github/stars/vidusha-jayaweera?style=social)
-<!--END_SECTION:waka-->
 
 ## Skills and Experience
 🔴 <strong>Programming Languages</strong>
@@ -61,10 +60,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 <br><br>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-419.5%20thousand%20lines%20of%20code-blue)
 
