@@ -69,10 +69,9 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-136-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-419.5%20thousand%20lines%20of%20code-blue)
 
@@ -80,7 +79,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 62.9 kB Used in GitHub's Storage 
  > 
-> 🏆 49 Contributions in the Year 2023
+> 🏆 52 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,21 +90,21 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-🌆 Daytime                104 commits         ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-🌃 Evening                242 commits         █████████████░░░░░░░░░░░░   53.66 % 
-🌙 Night                  83 commits          █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+🌞 Morning                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+🌆 Daytime                105 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+🌃 Evening                242 commits         █████████████░░░░░░░░░░░░   53.30 % 
+🌙 Night                  85 commits          █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Tuesday                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-Wednesday                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Thursday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Friday                   23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Sunday                   213 commits         ████████████░░░░░░░░░░░░░   47.23 % 
+Monday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Tuesday                  98 commits          █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Wednesday                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Thursday                 6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Friday                   26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Saturday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Sunday                   213 commits         ████████████░░░░░░░░░░░░░   46.92 % 
 ```
 
 
@@ -145,5 +144,5 @@ C                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 29/06/2023 18:41:06 UTC
+ Last Updated on 30/06/2023 18:39:56 UTC
 <!--END_SECTION:waka-->
