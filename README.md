@@ -68,7 +68,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,16 +113,17 @@ Sunday                   213 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+Java                     1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ                 0 secs              █████████████████████████   100.00 % 
+IntelliJ                 1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-libraryApp               0 secs              █████████████████████████   100.00 % 
+gameApp                  0 secs              ████████████████░░░░░░░░░   62.55 % 
+libraryApp               0 secs              █████████░░░░░░░░░░░░░░░░   37.45 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +143,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2023 18:38:00 UTC
+ Last Updated on 22/07/2023 18:37:11 UTC
 <!--END_SECTION:waka-->
