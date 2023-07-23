@@ -68,7 +68,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,17 +113,21 @@ Sunday                   213 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     1 min               █████████████████████████   100.00 % 
+Java                     21 mins             ███████████████████░░░░░░   74.61 % 
+XML                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+GitIgnore file           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 Editors: 
-IntelliJ                 1 min               █████████████████████████   100.00 % 
+IntelliJ                 29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gameApp                  0 secs              ████████████████░░░░░░░░░   62.55 % 
-libraryApp               0 secs              █████████░░░░░░░░░░░░░░░░   37.45 % 
+newGameApp               15 mins             █████████████░░░░░░░░░░░░   52.66 % 
+gameApp                  8 mins              ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Unknown Project          4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+libraryApp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,5 +147,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2023 18:37:11 UTC
+ Last Updated on 23/07/2023 18:37:18 UTC
 <!--END_SECTION:waka-->
