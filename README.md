@@ -68,7 +68,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,16 +113,25 @@ Sunday                   225 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 hrs 46 mins       ████████████████████████░   96.89 % 
+Ezhil                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+CLASS                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 7 mins        ████████████████████░░░░░   80.37 % 
+IntelliJ                 45 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+SundayRefactoring        1 hr 54 mins        ████████████░░░░░░░░░░░░░   48.97 % 
+WednesdayRefactoring     1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   33.61 % 
+FridayRefactoring        39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+quizApp                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +151,5 @@ PHP                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2023 18:37:16 UTC
+ Last Updated on 28/08/2023 18:37:30 UTC
 <!--END_SECTION:waka-->
