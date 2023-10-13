@@ -68,7 +68,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,18 +113,18 @@ Sunday                   225 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               3 mins              ███████████████████████░░   91.95 % 
-CSS                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+JavaScript               1 hr 50 mins        ██████████████████████░░░   87.60 % 
+CSS                      15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  2 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tutorial-MediCare(Coding-3 mins              █████████████████████████   100.00 % 
+Tutorial-MediCare(Coding-2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,5 +144,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2023 18:38:39 UTC
+ Last Updated on 13/10/2023 18:39:05 UTC
 <!--END_SECTION:waka-->
