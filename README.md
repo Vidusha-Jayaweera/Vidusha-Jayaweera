@@ -68,7 +68,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,8 +77,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 106.7 kB Used in GitHub's Storage 
- > 
-> 🏆 80 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,16 +111,17 @@ Sunday                   226 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     34 mins             █████████████████████████   100.00 % 
+Java                     35 mins             ██████████████████████░░░   87.66 % 
+JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 
 🔥 Editors: 
-IntelliJ                 34 mins             █████████████████████████   100.00 % 
+IntelliJ                 40 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobile-play-integrity    34 mins             █████████████████████████   100.00 % 
+mobile-play-integrity    40 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +141,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2023 18:39:02 UTC
+ Last Updated on 29/11/2023 18:39:10 UTC
 <!--END_SECTION:waka-->
