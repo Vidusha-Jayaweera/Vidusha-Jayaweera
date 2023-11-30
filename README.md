@@ -78,6 +78,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 106.7 kB Used in GitHub's Storage 
  > 
+> 🏆 80 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -111,17 +113,17 @@ Sunday                   226 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     35 mins             ██████████████████████░░░   87.66 % 
-JSON                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+JSON                     5 mins              ████████████████████░░░░░   80.36 % 
+Java                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
 
 🔥 Editors: 
-IntelliJ                 40 mins             █████████████████████████   100.00 % 
+IntelliJ                 6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobile-play-integrity    40 mins             █████████████████████████   100.00 % 
+mobile-play-integrity    6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,5 +143,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2023 18:39:10 UTC
+ Last Updated on 30/11/2023 18:38:42 UTC
 <!--END_SECTION:waka-->
