@@ -78,8 +78,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 106.7 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -147,5 +145,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2023 18:37:40 UTC
+ Last Updated on 14/12/2023 18:39:04 UTC
 <!--END_SECTION:waka-->
