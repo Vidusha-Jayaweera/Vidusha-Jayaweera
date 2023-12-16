@@ -113,21 +113,16 @@ Sunday                   226 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     35 mins             ███████████████████████░░   92.17 % 
-GitIgnore file           2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-learn-spring-framework   28 mins             ███████████████████░░░░░░   74.18 % 
-mobile-play-integrity    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Unknown Project          4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -147,5 +142,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2023 18:38:36 UTC
+ Last Updated on 16/12/2023 18:37:24 UTC
 <!--END_SECTION:waka-->
