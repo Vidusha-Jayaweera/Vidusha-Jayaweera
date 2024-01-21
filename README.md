@@ -68,7 +68,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -113,16 +113,19 @@ Sunday                   226 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     21 mins             █████████████████████████   100.00 % 
+Java                     38 mins             █████████████████████████   99.51 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-IntelliJ                 21 mins             █████████████████████████   100.00 % 
+IntelliJ                 38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-learn-spring-framework   21 mins             █████████████████████████   100.00 % 
+learn-spring-framework   36 mins             ███████████████████████░░   93.90 % 
+learn-spring-framework-012 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +145,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2024 18:37:12 UTC
+ Last Updated on 21/01/2024 18:37:54 UTC
 <!--END_SECTION:waka-->
