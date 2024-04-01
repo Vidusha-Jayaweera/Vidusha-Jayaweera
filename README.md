@@ -108,22 +108,16 @@ Sunday                   233 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               13 hrs 33 mins      ████████████████████████░   95.05 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 hrs 15 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-University-Timetabling-No11 hrs 13 mins      ████████████████████░░░░░   78.72 % 
-assignment-01-Vidusha-Jay2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-af24                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 hrs 15 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,5 +137,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2024 18:37:13 UTC
+ Last Updated on 01/04/2024 18:37:17 UTC
 <!--END_SECTION:waka-->
