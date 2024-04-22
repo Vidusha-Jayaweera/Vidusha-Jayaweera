@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,6 +74,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 108.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 24 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,21 +110,21 @@ Sunday                   233 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               39 mins             ███████████████████░░░░░░   76.29 % 
-Bash                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+JavaScript               5 hrs 20 mins       ██████████████████████░░░   88.65 % 
+Bash                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  45 mins             ██████████████████████░░░   88.27 % 
-assignment-01-Vidusha-Jay6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+backend                  5 hrs 55 mins       █████████████████████████   98.32 % 
+assignment-01-Vidusha-Jay6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +144,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 21/04/2024 18:37:29 UTC
+ Last Updated on 22/04/2024 18:37:16 UTC
 <!--END_SECTION:waka-->
