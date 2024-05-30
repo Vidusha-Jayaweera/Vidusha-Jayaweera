@@ -75,8 +75,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 137.0 kB Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -110,20 +108,16 @@ Sunday                   265 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Dart                     3 hrs 30 mins       ████████████████████████░   95.65 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           3 hrs 30 mins       ████████████████████████░   95.65 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-app                      3 hrs 30 mins       ████████████████████████░   95.52 % 
-CodeClimbResearch-final  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -143,5 +137,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2024 18:38:51 UTC
+ Last Updated on 30/05/2024 18:40:49 UTC
 <!--END_SECTION:waka-->
