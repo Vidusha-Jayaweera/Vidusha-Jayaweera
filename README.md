@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,6 +74,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 137.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 58 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,16 +110,17 @@ Sunday                   265 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 52 mins        ████████████████████████░   96.70 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          1 hr 56 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,5 +140,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 06/06/2024 18:39:45 UTC
+ Last Updated on 07/06/2024 18:40:46 UTC
 <!--END_SECTION:waka-->
