@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-205%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,6 +74,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 137.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 58 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,18 +110,18 @@ Sunday                   265 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               4 hrs 32 mins       ████████████████████████░   97.93 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+TypeScript               5 hrs 46 mins       ████████████████████████░   95.18 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobix-cams-digital-loan-w4 hrs 32 mins       ████████████████████████░   97.93 % 
-mobix-cams-digital-loan-w5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+mobix-cams-digital-loan-w5 hrs 46 mins       ████████████████████████░   95.18 % 
+mobix-cams-digital-loan-w17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,5 +141,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2024 18:38:51 UTC
+ Last Updated on 22/07/2024 18:41:29 UTC
 <!--END_SECTION:waka-->
