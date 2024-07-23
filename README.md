@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,8 +74,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 137.1 kB Used in GitHub's Storage 
- > 
-> 🏆 58 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,18 +108,19 @@ Sunday                   265 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               5 hrs 46 mins       ████████████████████████░   95.18 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+TypeScript               6 hrs 52 mins       ████████████████████████░   96.15 % 
+JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobix-cams-digital-loan-w5 hrs 46 mins       ████████████████████████░   95.18 % 
-mobix-cams-digital-loan-w17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+mobix-cams-digital-loan-w6 hrs 53 mins       ████████████████████████░   96.36 % 
+mobix-cams-digital-loan-w15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Windows                  6 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,5 +140,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2024 18:41:29 UTC
+ Last Updated on 23/07/2024 18:40:25 UTC
 <!--END_SECTION:waka-->
