@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,18 +108,21 @@ Sunday                   265 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████░░░░   83.45 % 
-XML                      0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Java                     35 mins             ████████████████████████░   97.11 % 
+GitIgnore file           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobix-cams-report-service0 secs              ████████████████░░░░░░░░░   63.22 % 
-mobix-cams-loan-service  0 secs              █████████░░░░░░░░░░░░░░░░   36.78 % 
+java-functional-programmi22 mins             ███████████████░░░░░░░░░░   61.50 % 
+learn-spring-framework   13 mins             ██████████░░░░░░░░░░░░░░░   38.15 % 
+mobix-cams-report-service0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+mobix-cams-loan-service  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,5 +142,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2024 18:41:39 UTC
+ Last Updated on 01/08/2024 18:41:17 UTC
 <!--END_SECTION:waka-->
