@@ -75,6 +75,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 137.1 kB Used in GitHub's Storage 
  > 
+> 🏆 59 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -123,11 +125,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               16 repos            ████████████░░░░░░░░░░░░░   48.48 % 
-Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Kotlin                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+JavaScript               17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Java                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -137,5 +139,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2024 18:43:34 UTC
+ Last Updated on 12/09/2024 18:44:42 UTC
 <!--END_SECTION:waka-->
