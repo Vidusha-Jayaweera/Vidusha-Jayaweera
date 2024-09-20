@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,19 +108,19 @@ Sunday                   265 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               13 mins             ██████████████████░░░░░░░   71.73 % 
-TypeScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+JavaScript               36 mins             ██████████████████████░░░   87.39 % 
+TypeScript               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tetra-Bugs               12 mins             █████████████████░░░░░░░░   67.50 % 
-mobix-cams-digital-loan-w5 mins              ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-mobix-cams-digital-loan-w0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Tetra-Bugs               35 mins             █████████████████████░░░░   85.50 % 
+mobix-cams-digital-loan-w5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+mobix-cams-digital-loan-w0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  41 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,5 +140,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2024 18:44:06 UTC
+ Last Updated on 20/09/2024 18:44:20 UTC
 <!--END_SECTION:waka-->
