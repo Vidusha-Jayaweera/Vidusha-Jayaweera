@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,17 +108,20 @@ Sunday                   273 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               41 mins             █████████████████████████   99.92 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+JavaScript               7 hrs 36 mins       ████████████████████████░   97.25 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  7 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tetra-Bugs               41 mins             █████████████████████████   100.00 % 
+Tetra-Bugs               7 hrs 42 mins       █████████████████████████   98.59 % 
+mobix-cams-digital-loan-w5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+mobix-cams-digital-loan-w1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  41 mins             █████████████████████████   100.00 % 
+Windows                  7 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +141,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2024 18:44:44 UTC
+ Last Updated on 27/09/2024 18:45:31 UTC
 <!--END_SECTION:waka-->
