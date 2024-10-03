@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,6 +74,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 137.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 67 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,20 +110,22 @@ Sunday                   273 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               8 hrs 43 mins       ████████████████████████░   97.10 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JavaScript               8 hrs 42 mins       ████████████████████████░   96.19 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+C#                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Tetra-Bugs               8 hrs 52 mins       █████████████████████████   98.77 % 
+Tetra-Bugs               8 hrs 32 mins       ████████████████████████░   94.23 % 
+mobix-cams-digital-loan-w21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 mobix-cams-digital-loan-w5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-mobix-cams-digital-loan-w1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+ApeKade-Server           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  8 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,5 +145,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2024 18:46:57 UTC
+ Last Updated on 03/10/2024 18:45:45 UTC
 <!--END_SECTION:waka-->
