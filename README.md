@@ -65,8 +65,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2048%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-773.1%20thousand%20lines%20of%20code-blue)
@@ -75,62 +73,12 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 137.2 kB Used in GitHub's Storage 
  > 
-> 🏆 69 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                49 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-🌆 Daytime                126 commits         █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-🌃 Evening                306 commits         █████████████░░░░░░░░░░░░   50.75 % 
-🌙 Night                  122 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Tuesday                  119 commits         █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-Wednesday                31 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Thursday                 45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Friday                   29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Saturday                 42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Sunday                   275 commits         ███████████░░░░░░░░░░░░░░   45.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-C#                       8 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
-Java                     6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.46 % 
-XML                      4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-
-🔥 Editors: 
-Android Studio           11 hrs 26 mins      ██████████████░░░░░░░░░░░   55.32 % 
-VS Code                  9 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.68 % 
-
-🐱‍💻 Projects: 
-ApeKade-Mobile           10 hrs 57 mins      █████████████░░░░░░░░░░░░   52.94 % 
-ApeKade-Server           9 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.80 % 
-shabeer                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-ApeKade-Admin            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-OnlineProductsApp        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-💻 Operating System: 
-Windows                  20 hrs 41 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -148,5 +96,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 18:46:30 UTC
+ Last Updated on 22/10/2024 18:45:58 UTC
 <!--END_SECTION:waka-->
