@@ -108,23 +108,16 @@ Sunday                   275 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Bash                     15 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Java                     14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-TypeScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-JavaScript               6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  36 mins             ████████████████░░░░░░░░░   62.84 % 
-IntelliJ IDEA            21 mins             █████████░░░░░░░░░░░░░░░░   37.16 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mobix-cams-digital-loan-w36 mins             ████████████████░░░░░░░░░   62.84 % 
-mobix-cams-report-service15 mins             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-mobix-cams-digital-loan-w6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,5 +137,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2024 18:46:39 UTC
+ Last Updated on 31/10/2024 18:46:08 UTC
 <!--END_SECTION:waka-->
