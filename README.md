@@ -75,6 +75,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 137.3 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -108,21 +110,16 @@ Sunday                   280 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-XML                      4 mins              ████████████████████████░   95.38 % 
-Kotlin                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           4 mins              █████████████████████████   99.51 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ApeKade-Mobile           4 mins              ████████████████████████░   96.16 % 
-dg-Mobile-prod           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-mobix-cams-report-service0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +139,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2025 18:44:33 UTC
+ Last Updated on 12/02/2025 18:45:50 UTC
 <!--END_SECTION:waka-->
