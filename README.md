@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -110,17 +110,18 @@ Sunday                   280 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Python                   8 mins              █████████████████████████   99.45 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Python                   15 mins             ████████████░░░░░░░░░░░░░   49.72 % 
+Docker                   11 mins             █████████░░░░░░░░░░░░░░░░   36.28 % 
+Text                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-therapy-conversation     8 mins              █████████████████████████   100.00 % 
+therapy-conversation     30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,5 +141,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2025 18:45:56 UTC
+ Last Updated on 20/02/2025 18:46:20 UTC
 <!--END_SECTION:waka-->
