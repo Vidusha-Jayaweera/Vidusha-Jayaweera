@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,6 +74,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 137.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,21 +110,21 @@ Sunday                   280 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Docker                   11 mins             █████████░░░░░░░░░░░░░░░░   35.46 % 
-Python                   11 mins             █████████░░░░░░░░░░░░░░░░   34.03 % 
-Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Other                    2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+TypeScript               15 mins             ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+Python                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
+Docker                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Text                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.00 % 
+VS Code                  54 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-therapy-conversation     27 mins             █████████████████████░░░░   82.25 % 
-mobix-cams-digital-loan-w5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+therapy-conversation     27 mins             █████████████░░░░░░░░░░░░   51.44 % 
+mobix-cams-digital-loan-w26 mins             ████████████░░░░░░░░░░░░░   48.56 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -142,5 +144,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2025 18:47:16 UTC
+ Last Updated on 25/02/2025 18:47:23 UTC
 <!--END_SECTION:waka-->
