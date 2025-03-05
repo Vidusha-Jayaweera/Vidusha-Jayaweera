@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-262%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,8 +74,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 137.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,17 +108,21 @@ Sunday                   280 commits         ███████████�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     0 secs              ██████████████████████░░░   89.83 % 
-XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Python                   18 mins             █████████████████████████   99.62 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+VS Code                  18 mins             █████████████████████████   99.80 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🐱‍💻 Projects: 
-mobix-cams-report-service0 secs              █████████████████████████   100.00 % 
+therapy-conversation     18 mins             █████████████████████████   99.80 % 
+mobix-cams-report-service0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,5 +142,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 04/03/2025 18:47:59 UTC
+ Last Updated on 05/03/2025 18:48:06 UTC
 <!--END_SECTION:waka-->
