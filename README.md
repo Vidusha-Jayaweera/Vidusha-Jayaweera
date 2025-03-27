@@ -65,8 +65,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2059%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
@@ -75,61 +73,14 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 149.5 kB Used in GitHub's Storage 
  > 
+> 🏆 74 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-🌆 Daytime                156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-🌃 Evening                319 commits         ██████████░░░░░░░░░░░░░░░   41.59 % 
-🌙 Night                  211 commits         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Friday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Sunday                   281 commits         █████████░░░░░░░░░░░░░░░░   36.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-Python                   12 hrs 22 mins      █████████████░░░░░░░░░░░░   52.32 % 
-Kotlin                   8 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.81 % 
-Text                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Git Config               27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Docker                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-
-🔥 Editors: 
-VS Code                  14 hrs 38 mins      ███████████████░░░░░░░░░░   61.94 % 
-Android Studio           8 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.03 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🐱‍💻 Projects: 
-backend                  10 hrs 39 mins      ███████████░░░░░░░░░░░░░░   45.05 % 
-dg-Mobile-prod           8 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
-therapy-conversation     3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-DG-Mobile-main           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Dementia Guard           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-
-💻 Operating System: 
-Windows                  23 hrs 38 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -147,5 +98,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2025 18:48:31 UTC
+ Last Updated on 27/03/2025 18:48:24 UTC
 <!--END_SECTION:waka-->
