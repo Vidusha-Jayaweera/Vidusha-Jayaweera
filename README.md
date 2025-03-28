@@ -65,6 +65,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2059%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
@@ -73,14 +75,52 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 149.5 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+🌆 Daytime                156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+🌃 Evening                319 commits         ██████████░░░░░░░░░░░░░░░   41.59 % 
+🌙 Night                  211 commits         ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Wednesday                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Friday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Sunday                   281 commits         █████████░░░░░░░░░░░░░░░░   36.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+Java                     0 secs              ████████████████████████░   97.41 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+
+🔥 Editors: 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+mobix-cams-report-service0 secs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -98,5 +138,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:48:24 UTC
+ Last Updated on 28/03/2025 18:50:22 UTC
 <!--END_SECTION:waka-->
