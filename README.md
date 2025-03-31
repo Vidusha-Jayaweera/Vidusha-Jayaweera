@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,8 +74,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 149.5 kB Used in GitHub's Storage 
- > 
-> 🏆 74 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,17 +108,21 @@ Sunday                   281 commits         █████████░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     0 secs              ████████████████████████░   97.41 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+TypeScript               35 mins             ████████████████████░░░░░   81.17 % 
+JSON                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+VS Code                  44 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mobix-cams-report-service0 secs              █████████████████████████   100.00 % 
+mobix-cams-digital-loan-w42 mins             ████████████████████████░   96.05 % 
+mobix-cams-digital-loan-w1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  44 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,5 +142,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 18:44:53 UTC
+ Last Updated on 31/03/2025 18:49:14 UTC
 <!--END_SECTION:waka-->
