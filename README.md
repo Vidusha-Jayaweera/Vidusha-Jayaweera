@@ -108,18 +108,16 @@ Sunday                   281 commits         █████████░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████░░░░░░░░░░░░   53.30 % 
-Docker                   6 mins              ███████████░░░░░░░░░░░░░░   45.84 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-therapy-conversation     14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,5 +137,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2025 18:45:08 UTC
+ Last Updated on 20/04/2025 18:46:58 UTC
 <!--END_SECTION:waka-->
