@@ -65,8 +65,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
@@ -75,7 +73,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 149.5 kB Used in GitHub's Storage 
  > 
-> 🏆 79 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -83,45 +81,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-🌆 Daytime                156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-🌃 Evening                323 commits         ██████████░░░░░░░░░░░░░░░   41.84 % 
-🌙 Night                  212 commits         ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-Wednesday                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Thursday                 125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Friday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Sunday                   281 commits         █████████░░░░░░░░░░░░░░░░   36.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -139,5 +98,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:49:34 UTC
+ Last Updated on 02/05/2025 18:48:51 UTC
 <!--END_SECTION:waka-->
