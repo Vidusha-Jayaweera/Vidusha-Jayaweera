@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,8 +74,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 149.5 kB Used in GitHub's Storage 
- > 
-> 🏆 79 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,16 +108,23 @@ Sunday                   282 commits         █████████░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   44 mins             ██████████████░░░░░░░░░░░   57.82 % 
+XML                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+TOML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           1 hr 11 mins        ████████████████████████░   94.30 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dg-Mobile-prod           1 hr 11 mins        ████████████████████████░   94.30 % 
+backend                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+therapy-conversation     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,5 +144,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 18:47:47 UTC
+ Last Updated on 05/05/2025 18:47:57 UTC
 <!--END_SECTION:waka-->
