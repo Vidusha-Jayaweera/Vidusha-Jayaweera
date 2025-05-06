@@ -75,6 +75,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 149.5 kB Used in GitHub's Storage 
  > 
+> 🏆 79 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -144,5 +146,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 05/05/2025 18:47:57 UTC
+ Last Updated on 06/05/2025 18:49:44 UTC
 <!--END_SECTION:waka-->
