@@ -110,23 +110,16 @@ Sunday                   282 commits         █████████░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Kotlin                   44 mins             ██████████████░░░░░░░░░░░   57.82 % 
-XML                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-TOML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 11 mins        ████████████████████████░   94.30 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dg-Mobile-prod           1 hr 11 mins        ████████████████████████░   94.30 % 
-backend                  3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-therapy-conversation     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,5 +139,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 18:46:36 UTC
+ Last Updated on 12/05/2025 18:50:51 UTC
 <!--END_SECTION:waka-->
