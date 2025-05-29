@@ -65,7 +65,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,6 +74,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 **🐱 My GitHub Data** 
 
 > 📦 149.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 109 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,16 +110,25 @@ Sunday                   286 commits         █████████░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   29 mins             ███████████░░░░░░░░░░░░░░   44.82 % 
+Kotlin                   24 mins             ██████████░░░░░░░░░░░░░░░   38.04 % 
+XML                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           32 mins             ████████████░░░░░░░░░░░░░   49.69 % 
+Cursor                   24 mins             █████████░░░░░░░░░░░░░░░░   37.17 % 
+VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dg-Mobile-prod           32 mins             █████████████░░░░░░░░░░░░   50.51 % 
+therapy-conversation     23 mins             █████████░░░░░░░░░░░░░░░░   36.08 % 
+backend                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+integrated-app-final     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,5 +148,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2025 18:50:30 UTC
+ Last Updated on 29/05/2025 18:51:17 UTC
 <!--END_SECTION:waka-->
