@@ -75,6 +75,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 > 📦 149.5 kB Used in GitHub's Storage 
  > 
+> 🏆 109 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 17 Public Repositories 
@@ -108,25 +110,16 @@ Sunday                   286 commits         █████████░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Python                   29 mins             ███████████░░░░░░░░░░░░░░   44.82 % 
-Kotlin                   24 mins             ██████████░░░░░░░░░░░░░░░   38.04 % 
-XML                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           32 mins             ████████████░░░░░░░░░░░░░   49.69 % 
-Cursor                   24 mins             █████████░░░░░░░░░░░░░░░░   37.17 % 
-VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dg-Mobile-prod           32 mins             █████████████░░░░░░░░░░░░   50.51 % 
-therapy-conversation     23 mins             █████████░░░░░░░░░░░░░░░░   36.08 % 
-backend                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-integrated-app-final     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -146,5 +139,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 18:48:16 UTC
+ Last Updated on 05/06/2025 18:43:38 UTC
 <!--END_SECTION:waka-->
