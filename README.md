@@ -65,8 +65,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
@@ -83,45 +81,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-🌆 Daytime                161 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-🌃 Evening                341 commits         ███████████░░░░░░░░░░░░░░   42.41 % 
-🌙 Night                  212 commits         ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-Tuesday                  123 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Wednesday                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Thursday                 125 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Friday                   82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Saturday                 75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Sunday                   286 commits         █████████░░░░░░░░░░░░░░░░   35.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -139,5 +98,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2025 18:58:31 UTC
+ Last Updated on 30/07/2025 18:57:09 UTC
 <!--END_SECTION:waka-->
