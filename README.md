@@ -108,17 +108,16 @@ Sunday                   286 commits         █████████░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Java                     0 secs              ██████████████████████░░░   89.03 % 
-XML                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-mobix-cams-report-service0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +137,5 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2025 18:49:24 UTC
+ Last Updated on 17/08/2025 18:50:52 UTC
 <!--END_SECTION:waka-->
