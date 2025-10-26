@@ -73,7 +73,7 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 **🐱 My GitHub Data** 
 
-> 📦 149.7 kB Used in GitHub's Storage 
+> 📦 149.8 kB Used in GitHub's Storage 
  > 
 > 🏆 124 Contributions in the Year 2025
  > 
@@ -139,5 +139,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 18:47:28 UTC
+ Last Updated on 26/10/2025 18:48:08 UTC
 <!--END_SECTION:waka-->
