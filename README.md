@@ -71,9 +71,9 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 
 **🐱 My GitHub Data** 
 
-> 📦 150.3 kB Used in GitHub's Storage 
+> 📦 150.4 kB Used in GitHub's Storage 
  > 
-> 🏆 168 Contributions in the Year 2025
+> 🏆 175 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,45 +81,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-🌆 Daytime                165 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-🌃 Evening                348 commits         ██████████░░░░░░░░░░░░░░░   40.23 % 
-🌙 Night                  231 commits         ███████░░░░░░░░░░░░░░░░░░   26.71 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Tuesday                  133 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Wednesday                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Thursday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-Sunday                   302 commits         █████████░░░░░░░░░░░░░░░░   34.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -137,5 +98,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2025 18:45:56 UTC
+ Last Updated on 03/11/2025 18:48:13 UTC
 <!--END_SECTION:waka-->
