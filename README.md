@@ -81,45 +81,6 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-🌆 Daytime                165 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-🌃 Evening                348 commits         ██████████░░░░░░░░░░░░░░░   39.10 % 
-🌙 Night                  256 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Tuesday                  133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Wednesday                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Saturday                 76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Sunday                   313 commits         █████████░░░░░░░░░░░░░░░░   35.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -137,5 +98,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:21:26 UTC
+ Last Updated on 23/05/2026 19:46:16 UTC
 <!--END_SECTION:waka-->
