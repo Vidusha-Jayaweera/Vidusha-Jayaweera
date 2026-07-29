@@ -65,6 +65,8 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
 <br><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2034%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.25%20million%20lines%20of%20code-blue?style=flat)
@@ -81,6 +83,51 @@ I'm <strong>Vidusha Jayaweera</strong>, Software Engineering Undergraduate at Sr
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+🌆 Daytime                165 commits         █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+🌃 Evening                348 commits         ██████████░░░░░░░░░░░░░░░   39.10 % 
+🌙 Night                  256 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   84 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+Tuesday                  133 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Wednesday                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Friday                   113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Saturday                 76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Sunday                   313 commits         █████████░░░░░░░░░░░░░░░░   35.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -98,5 +145,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vidusha-Jayaweera/Vidusha-Jayaweera/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:02:59 UTC
+ Last Updated on 29/07/2026 19:54:20 UTC
 <!--END_SECTION:waka-->
